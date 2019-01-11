@@ -1,0 +1,6 @@
+owner=520866071889182721
+prefix=R
+game=Rplay
+stayinchannel=true
+songinstatus=false
+token=NTIyODcxMDY4NTE2NTQ4NjQ4.DvRSAA.EaXjaLi0wXSWkUMIW-LlOp4Dc5A
