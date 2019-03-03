@@ -1,6 +1,6 @@
-owner=520866071889182721
-prefix=R
-game=Rplay
+owner=519273796243554354
+prefix=3
+game=3play
 stayinchannel=true
 songinstatus=false
-token=NTIyODcxMDY4NTE2NTQ4NjQ4.DvRSAA.EaXjaLi0wXSWkUMIW-LlOp4Dc5A
+token=NTUxODk3MTUwNjYyMTE1MzUw.D13pyg.D2fyAx3LSsYEr0hD3Q-l1dhyYtM
